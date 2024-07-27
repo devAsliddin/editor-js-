@@ -1,0 +1,15 @@
+body {
+  background: #454242;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.edit {
+  width: 500px;
+  height: 400px;
+  border: 1px solid white;
+}
